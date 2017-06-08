@@ -161,3 +161,8 @@ h1,h2,h3,h4,h5,h6,button
 	color: white;
 	padding: 1em 0;
 }
+
+.info-conteiner .info-map iframe
+{
+	width: 100%;
+}
